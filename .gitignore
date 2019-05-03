@@ -9,5 +9,5 @@ build
 truffle-config.js
 
 # Nodejs
-package-lock.json
+# package-lock.json
 node_modules
