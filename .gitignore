@@ -1,0 +1,13 @@
+# Solidity linter
+.solhint
+
+# Tests
+test
+
+# Truffle
+build
+truffle-config.js
+
+# Nodejs
+package-lock.json
+node_modules
